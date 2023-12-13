@@ -1,0 +1,14 @@
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" target-language="es" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="7136018875175606726" datatype="html">
+        <source>in</source>
+        <target state="new">en</target>
+      </trans-unit>
+      <trans-unit id="6205355627445317276" datatype="html">
+        <source>Content</source>
+        <target state="new">Contenido</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
